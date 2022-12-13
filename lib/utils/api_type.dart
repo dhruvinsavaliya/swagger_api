@@ -1,0 +1,1 @@
+enum ApiType {aGet,aPut,aPost,aDelete}
